@@ -39,8 +39,6 @@ body{
   width: 75%;
 }
 #me{
-	height: 80%;
-  	width: 80%;
   	transform: rotate(90deg);
 }
 /*
