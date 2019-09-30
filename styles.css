@@ -14,17 +14,17 @@ body{
 }
 #jumbo{
 	
-	color: white;
+	color: black;
 	background-color: rgba(139,0,139,.5);
 	border: black;
 }
 
 
 #ct{
-	color: white;
+	color: black;
 }
 #nonactive{
-	color:white;
+	color:black;
 
 }
 #mail{
