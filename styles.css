@@ -40,8 +40,8 @@ body{
 }
 #me{
 	height: 70%;
-  width: 70%;
-  transform: rotate(90deg);
+  	width: 70%;
+  	transform: rotate(90deg);
 }
 /*
 div.footer {
